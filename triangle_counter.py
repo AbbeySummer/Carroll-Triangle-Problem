@@ -314,4 +314,3 @@ def OB(m,k):
             res += oMK(i,j) * (m-i+1) * (k-j+1)
     return res
 
-print(OB(10, 10))
